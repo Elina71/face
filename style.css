@@ -1,0 +1,144 @@
+body {
+        background: url("face1.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+}
+
+#con1 {
+        width: 200px;
+        height: 150px;
+}
+
+#con2 {
+        width: 170px;
+        height: 150px;
+}
+
+#con3 {
+        width: 200px;
+        height: 150px;
+}
+
+.container1 {
+        display: grid;
+        justify-content: center;
+}
+
+#con4 li{
+        color: yellow;
+}
+
+#con5 li{
+        color: yellow;
+}
+
+#con6 li{
+        color: yellow;
+}
+mark {
+        letter-spacing: 5px;
+}
+
+#con7 {
+        color: rgb(0, 0, 0);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 215%;
+        -webkit-text-stroke: .04em white;
+}
+#con8 {
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        background-color: black;
+        padding-bottom: 20px;
+}
+
+#con10 {
+       font-size: 200%;
+}
+
+#con11 {
+        font-size: 200%;
+}
+
+#con12 {
+        font-size: 150%;
+}
+
+#con13 {
+        font-size: 150%;
+}
+
+#con14 {
+        font-size: 150%;
+}
+
+#con15 {
+        font-size: 200%;
+}
+
+#con16 {
+        font-size: 150%;
+}
+
+#con17 {
+        font-size: 150%;
+}
+
+#con18 {
+        font-size: 200%;
+}
+
+#con19 {
+        font-size: 150%;
+}
+
+#con20 {
+        font-size: 150%;
+}
+
+#con21 {
+        font-size: 150%;
+}
+
+#con22 {
+        font-size: 150%;
+}
+
+#con23 {
+        font-size: 150%;
+}
+
+#con24 {
+        font-size: 200%;
+}
+
+#con25 {
+        font-size: 150%;
+}
+
+#con26 {
+        font-size: 150%;
+}
+
+#con27 {
+        font-size: 150%;
+}
+
+#con28 {
+        margin-left: 400px;
+}
+.fig {
+        text-align: center;
+}
+
+.btn {
+        color: white;
+        padding: 15px 20px;
+        background-color: black;
+        border: none;
+        cursor: pointer;
+}
+.btn:hover {
+        opacity: 0.9;
+}
